@@ -1,0 +1,103 @@
+.sectionPerfil{
+    width: 100%;
+    background-color: black;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    color: yellow;
+}
+
+.secao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.adicionarRole{
+    color: black;
+    background-color: yellow;
+    border: 0;
+    box-shadow: 0;
+    border-radius: 50%;
+    font-size: 15pt;
+}
+
+.infoPerfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.infoPerfil p{
+    font-size: 9pt;
+}
+
+h2{
+    font-size: 9pt;
+    font-weight: bold;
+}
+
+.meusAmigos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amigos{
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+    border-radius: 50%;
+}
+
+.amigos{
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+.amigos p{
+    color: yellow;
+    padding-left: 5px;
+    font-size: 8pt;
+    position: absolute;
+}
+
+.meusInteresses{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.interesses{
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+.interesses p{
+    color: yellow;
+    padding-left: 8px;
+    font-size: 8pt;
+    position: absolute;
+}
+
+.toNaPista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-size: 10pt;
+    font-weight: bold;
+}
